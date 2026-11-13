@@ -1,0 +1,1 @@
+{"name":"Comptoir Jetons","short_name":"Comptoir","start_url":"./index.html","scope":"./","display":"standalone","orientation":"any","background_color":"#052F5B","theme_color":"#052F5B","lang":"fr","icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
